@@ -1,2 +1,0 @@
-Pequena demonstração de aplicabilidade do pacote R - circlise Ref.:https://jokergoo.github.io/circlize_book/book/
-Aplicado para realização da figura 7 da publicação: https://pubmed.ncbi.nlm.nih.gov/30689499/
